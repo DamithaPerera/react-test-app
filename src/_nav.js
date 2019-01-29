@@ -37,6 +37,11 @@ export default {
       },
     },
     {
+      name: 'test-page',
+      url: '/UserList/UserList',
+      icon: 'icon-puzzle'
+    },
+    {
       name: 'Base',
       url: '/base',
       icon: 'icon-puzzle',
